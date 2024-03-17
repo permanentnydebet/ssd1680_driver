@@ -1,0 +1,3 @@
+[submodule "example/epaper-display"]
+	path = example/epaper-display
+	url = https://github.com/permanentnydebet/epaper-display
